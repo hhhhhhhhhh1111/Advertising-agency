@@ -1,0 +1,68 @@
+C:\Users\qweki\source\repos\Рекламное агенство\Рекламное агенство\bin\Debug\Рекламное агенство.exe.config
+C:\Users\qweki\source\repos\Рекламное агенство\Рекламное агенство\bin\Debug\Рекламное агенство.exe
+C:\Users\qweki\source\repos\Рекламное агенство\Рекламное агенство\bin\Debug\Рекламное агенство.pdb
+C:\Users\qweki\source\repos\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное агенство.csproj.AssemblyReference.cache
+C:\Users\qweki\source\repos\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.Form1.resources
+C:\Users\qweki\source\repos\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.Properties.Resources.resources
+C:\Users\qweki\source\repos\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное агенство.csproj.GenerateResource.cache
+C:\Users\qweki\source\repos\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное агенство.csproj.CoreCompileInputs.cache
+C:\Users\qweki\source\repos\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное агенство.exe
+C:\Users\qweki\source\repos\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное агенство.pdb
+C:\Users\qweki\source\repos\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.Form2.resources
+C:\Users\qweki\source\repos\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.Form3.resources
+C:\Users\qweki\source\repos\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.Form4.resources
+C:\Users\Mihai\OneDrive\Desktop\Рекламное агенство\Рекламное агенство\bin\Debug\Рекламное агенство.exe.config
+C:\Users\Mihai\OneDrive\Desktop\Рекламное агенство\Рекламное агенство\bin\Debug\Рекламное агенство.exe
+C:\Users\Mihai\OneDrive\Desktop\Рекламное агенство\Рекламное агенство\bin\Debug\Рекламное агенство.pdb
+C:\Users\Mihai\OneDrive\Desktop\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное агенство.csproj.AssemblyReference.cache
+C:\Users\Mihai\OneDrive\Desktop\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.Form3.resources
+C:\Users\Mihai\OneDrive\Desktop\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.Form4.resources
+C:\Users\Mihai\OneDrive\Desktop\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.Form5.resources
+C:\Users\Mihai\OneDrive\Desktop\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.Properties.Resources.resources
+C:\Users\Mihai\OneDrive\Desktop\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное агенство.csproj.GenerateResource.cache
+C:\Users\Mihai\OneDrive\Desktop\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное агенство.csproj.CoreCompileInputs.cache
+C:\Users\Mihai\OneDrive\Desktop\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное агенство.exe
+C:\Users\Mihai\OneDrive\Desktop\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное агенство.pdb
+C:\Users\Mihai\OneDrive\Desktop\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.Ялга.resources
+C:\Users\Mihai\OneDrive\Desktop\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.ночка.resources
+C:\Users\Mihai\OneDrive\Desktop\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.Form6.resources
+C:\Users\Mihai\Desktop\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное агенство.csproj.AssemblyReference.cache
+C:\Users\Mihai\Desktop\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное агенство.exe
+C:\Users\Mihai\Desktop\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное агенство.pdb
+C:\Users\Mihai\Desktop\Рекламное агенство\Рекламное агенство\bin\Debug\Рекламное агенство.exe.config
+C:\Users\Mihai\Desktop\Рекламное агенство\Рекламное агенство\bin\Debug\Рекламное агенство.exe
+C:\Users\Mihai\Desktop\Рекламное агенство\Рекламное агенство\bin\Debug\Рекламное агенство.pdb
+C:\Users\Mihai\Desktop\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.Form6.resources
+C:\Users\Mihai\Desktop\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.Ялга.resources
+C:\Users\Mihai\Desktop\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.ночка.resources
+C:\Users\Mihai\Desktop\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.Form3.resources
+C:\Users\Mihai\Desktop\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.Form4.resources
+C:\Users\Mihai\Desktop\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.Form5.resources
+C:\Users\Mihai\Desktop\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.Properties.Resources.resources
+C:\Users\Mihai\Desktop\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное агенство.csproj.GenerateResource.cache
+C:\Users\Mihai\Desktop\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное агенство.csproj.CoreCompileInputs.cache
+C:\Users\Mihai\OneDrive\Desktop\Рекламное агенство\Рекламное агенство\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Mihai\OneDrive\Desktop\Рекламное агенство\Рекламное агенство\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Mihai\OneDrive\Desktop\Рекламное агенство\Рекламное агенство\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Mihai\OneDrive\Desktop\Рекламное агенство\Рекламное агенство\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Mihai\OneDrive\Desktop\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламно.083964B6.Up2Date
+C:\Users\Mihai\OneDrive\Desktop\Новая папка (3)\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное агенство.csproj.AssemblyReference.cache
+C:\Users\Mihai\OneDrive\Desktop\Новая папка (3)\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное агенство.exe
+C:\Users\Mihai\OneDrive\Desktop\Новая папка (3)\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное агенство.pdb
+C:\Users\Mihai\OneDrive\Desktop\Новая папка (3)\Рекламное агенство\Рекламное агенство\bin\Debug\Рекламное агенство.exe.config
+C:\Users\Mihai\OneDrive\Desktop\Новая папка (3)\Рекламное агенство\Рекламное агенство\bin\Debug\Рекламное агенство.exe
+C:\Users\Mihai\OneDrive\Desktop\Новая папка (3)\Рекламное агенство\Рекламное агенство\bin\Debug\Рекламное агенство.pdb
+C:\Users\Mihai\OneDrive\Desktop\Новая папка (3)\Рекламное агенство\Рекламное агенство\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Mihai\OneDrive\Desktop\Новая папка (3)\Рекламное агенство\Рекламное агенство\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Mihai\OneDrive\Desktop\Новая папка (3)\Рекламное агенство\Рекламное агенство\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Mihai\OneDrive\Desktop\Новая папка (3)\Рекламное агенство\Рекламное агенство\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Mihai\OneDrive\Desktop\Новая папка (3)\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.Form6.resources
+C:\Users\Mihai\OneDrive\Desktop\Новая папка (3)\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.Ялга.resources
+C:\Users\Mihai\OneDrive\Desktop\Новая папка (3)\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.ночка.resources
+C:\Users\Mihai\OneDrive\Desktop\Новая папка (3)\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.Form3.resources
+C:\Users\Mihai\OneDrive\Desktop\Новая папка (3)\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.Form4.resources
+C:\Users\Mihai\OneDrive\Desktop\Новая папка (3)\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.Form5.resources
+C:\Users\Mihai\OneDrive\Desktop\Новая папка (3)\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное_агенство.Properties.Resources.resources
+C:\Users\Mihai\OneDrive\Desktop\Новая папка (3)\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное агенство.csproj.GenerateResource.cache
+C:\Users\Mihai\OneDrive\Desktop\Новая папка (3)\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламное агенство.csproj.CoreCompileInputs.cache
+C:\Users\Mihai\OneDrive\Desktop\Новая папка (3)\Рекламное агенство\Рекламное агенство\obj\Debug\Рекламно.083964B6.Up2Date
